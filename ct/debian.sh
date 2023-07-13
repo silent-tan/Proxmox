@@ -19,9 +19,9 @@ EOF
 header_info
 echo -e "Loading..."
 APP="Debian"
-var_disk="2"
-var_cpu="1"
-var_ram="512"
+var_disk="120"
+var_cpu="8"
+var_ram="16"
 var_os="debian"
 var_version="12"
 variables
